@@ -17,8 +17,8 @@ Whether it's identifying spoken commands, recognizing speakers, or analyzing emo
 -  Detect and transcribe spoken commands or phrases. [ Implemented ]
      - How to use : Install the MSI file from https://github.com/BhushanDS/vOICE_dETECTORS/tree/master/Voice_Buddy
      - Use config file to manupulate your commands
-     - So you Commands tag in congif.xml have exe and argument EX : ##( <command text="Computer open youtube" path="chrome.exe" arguments="http://youtube.com" /> )
-     - And you choice tag should match to so for abouve Example : ##( <choice>Computer open youtube</choice> )
+     - So you Commands tag in congif.xml have exe and argument EX : ## '<command text="Computer open youtube" path="chrome.exe" arguments="http://youtube.com" /> '
+     - And you choice tag should match to so for abouve Example : ## '<choice>Computer open youtube</choice> )'
      ![Alt text](https://scontent.fpnq7-3.fna.fbcdn.net/v/t1.6435-9/83065302_2502827053268956_6922730653943332864_n.jpg?stp=cp0_dst-jpg_e15_p320x320_q65&_nc_cat=101&ccb=1-7&_nc_sid=512d91&_nc_ohc=ZsC8OCtjvzoAX_qxo5i&_nc_ht=scontent.fpnq7-3.fna&oh=00_AfBYPXsnkcZ6-qPW0ky7wNNQybMKNWo1-uB6fAR-Oboo-w&oe=65EDAC88)
 
 ## Speaker Identification
