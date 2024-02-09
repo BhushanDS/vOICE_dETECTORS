@@ -13,7 +13,7 @@ Whether it's identifying spoken commands, recognizing speakers, or analyzing emo
 
 ## Features
 ```html
-https://placehold.it/150/ffffff/ff0000?text=Speech Recognition
++Speech Recognition
 -  Detect and transcribe spoken commands or phrases. [ Implemented ]
      - How to use : Install the MSI file from https://github.com/BhushanDS/vOICE_dETECTORS/tree/master/Voice_Buddy
      - Use config file to manupulate your commands
