@@ -24,7 +24,7 @@ Whether it's identifying spoken commands, recognizing speakers, or analyzing emo
 ## Speaker Identification
 - Identify individual speakers based on their unique voice characteristics. [ InProgress ]
 
-##Emotion Analysis
+## Emotion Analysis
 - Analyze the emotional tone of a speaker's voice (e.g., happiness, sadness, anger). [ To Do ]
 
 ## Keyword Spotting
